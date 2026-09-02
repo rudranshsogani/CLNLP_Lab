@@ -1,7 +1,7 @@
 # Computational Linguistics & Natural Language Processing Laboratory
 
-**Name:** Aantriksh Sood  
-**SAP ID:** 500124259  
+**Name:** Rudransh Sogani  
+**SAP ID:** 500120440  
 **Specialisation Batch:** AI/ML B1  
 **Subject:** Computational Linguistics & Natural Language Processing  
 **Faculty:** Dr. Sahinur Rahman Laskar
